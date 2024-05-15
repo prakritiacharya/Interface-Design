@@ -1,0 +1,36 @@
+/** Step one **/
+
+/** Step two **/
+
+  
+    h1,h2,h3.h4.h5,h6{
+        font-family: "Open Sans",sans-serif;
+    }
+   
+
+
+/** Step three **/
+h1{
+    font-size: 46px;
+    letter-spacing: 1.75px;
+    align-items: center;
+    color: black;
+}
+
+/** Step four **/
+
+p,a,li,ul{
+    font-family: "Lato",sans-serif;
+}
+/** Step five **/
+span{
+    color: rgb(86, 226, 43);
+}
+
+/** Step six **/
+body > h3{
+    font-size: 50px;
+    text-shadow: 4px 3px 4px rgba(0, 0, 0, 8);
+}
+
+
